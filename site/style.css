@@ -36,9 +36,11 @@ section{
 		#p2{background-color: #AE2A88;
 			text-align: center;
 			font-size: 150%;
+			color:maroon;
 			font-weight: bold;}
 		#p3{background-color: #AEA55E;
 			text-align : center;
+			color: blue;
 			font-size: 150%;
 			font-weight: bold;}
 
